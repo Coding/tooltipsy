@@ -1,0 +1,21 @@
+{
+  "name": "tooltipsy",
+  "version": "1.0.3",
+  "description": "Introducing a jQuery tooltip plugin for control-obsessed designers.",
+  "main": "./index.js",
+  "scripts": {
+   
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/Coding/tooltipsy"
+  },
+  "author": "briancray/tooltipsy",
+  "license": "MIT",
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+   
+  }
+}
